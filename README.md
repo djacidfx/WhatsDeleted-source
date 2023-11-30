@@ -1,11 +1,6 @@
 # WhatsDeleted
 **WhatsDeleted** recovers deleted messages from (**WhatsApp,Telegram and Signal**) by scanning your device notifications, You can also read your messages and chat anonymously.
 
-### Screenshots
-
- <p align="center">
- <img src="https://play-lh.googleusercontent.com/4KLC0qxBtgbNKvtP-BSNGhxoa78fBEX9fJjhPhdkPY4HAj7tNOAAyXQlu80sBCPwSWJT=w526-h296"/>
-
 </p>
 
 ## Download :
